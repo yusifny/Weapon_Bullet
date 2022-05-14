@@ -1,0 +1,14 @@
+C:\Users\tu4rwlg2x\source\repos\Weapon_Shot_Fire\Weapon_Shot_Fire\bin\Debug\netcoreapp3.1\Weapon_Shot_Fire.exe
+C:\Users\tu4rwlg2x\source\repos\Weapon_Shot_Fire\Weapon_Shot_Fire\bin\Debug\netcoreapp3.1\Weapon_Shot_Fire.deps.json
+C:\Users\tu4rwlg2x\source\repos\Weapon_Shot_Fire\Weapon_Shot_Fire\bin\Debug\netcoreapp3.1\Weapon_Shot_Fire.runtimeconfig.json
+C:\Users\tu4rwlg2x\source\repos\Weapon_Shot_Fire\Weapon_Shot_Fire\bin\Debug\netcoreapp3.1\Weapon_Shot_Fire.runtimeconfig.dev.json
+C:\Users\tu4rwlg2x\source\repos\Weapon_Shot_Fire\Weapon_Shot_Fire\bin\Debug\netcoreapp3.1\Weapon_Shot_Fire.dll
+C:\Users\tu4rwlg2x\source\repos\Weapon_Shot_Fire\Weapon_Shot_Fire\bin\Debug\netcoreapp3.1\Weapon_Shot_Fire.pdb
+C:\Users\tu4rwlg2x\source\repos\Weapon_Shot_Fire\Weapon_Shot_Fire\obj\Debug\netcoreapp3.1\Weapon_Shot_Fire.csproj.AssemblyReference.cache
+C:\Users\tu4rwlg2x\source\repos\Weapon_Shot_Fire\Weapon_Shot_Fire\obj\Debug\netcoreapp3.1\Weapon_Shot_Fire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu4rwlg2x\source\repos\Weapon_Shot_Fire\Weapon_Shot_Fire\obj\Debug\netcoreapp3.1\Weapon_Shot_Fire.AssemblyInfoInputs.cache
+C:\Users\tu4rwlg2x\source\repos\Weapon_Shot_Fire\Weapon_Shot_Fire\obj\Debug\netcoreapp3.1\Weapon_Shot_Fire.AssemblyInfo.cs
+C:\Users\tu4rwlg2x\source\repos\Weapon_Shot_Fire\Weapon_Shot_Fire\obj\Debug\netcoreapp3.1\Weapon_Shot_Fire.csproj.CoreCompileInputs.cache
+C:\Users\tu4rwlg2x\source\repos\Weapon_Shot_Fire\Weapon_Shot_Fire\obj\Debug\netcoreapp3.1\Weapon_Shot_Fire.dll
+C:\Users\tu4rwlg2x\source\repos\Weapon_Shot_Fire\Weapon_Shot_Fire\obj\Debug\netcoreapp3.1\Weapon_Shot_Fire.pdb
+C:\Users\tu4rwlg2x\source\repos\Weapon_Shot_Fire\Weapon_Shot_Fire\obj\Debug\netcoreapp3.1\Weapon_Shot_Fire.genruntimeconfig.cache
